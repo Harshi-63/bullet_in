@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31526679778",
+    "project_id": "bulletin-814ae",
+    "storage_bucket": "bulletin-814ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31526679778:android:fa007903659a5a3d4a9abb",
+        "android_client_info": {
+          "package_name": "com.globe.bulletin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApNrxhWBvvz0iwju5Yb5WtOi_tfV1455I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
